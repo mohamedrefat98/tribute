@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.container{
+    margin: 20px 80px;
+    padding: 100px 20px 20px 20px;
+    background-color: lightgrey;
+}
+h1{
+    width: 30%;
+    border: black solid 3px;
+    margin: 10px auto;
+    background-color: lightgrey;
+    position: fixed ;
+    top: 20px;
+    left:35% ;
+    text-align: center;
+    border-radius: 5px;
+    z-index: 50px;
+
+}
+h2{
+    width: fit-content;
+    margin: 10px auto;
+}
+.photo{
+    width: fit-content;
+    margin: 10px auto;
+}
+span{
+    font-family: serif;
+    font-style: italic;
+    font-weight: 800;
+}
